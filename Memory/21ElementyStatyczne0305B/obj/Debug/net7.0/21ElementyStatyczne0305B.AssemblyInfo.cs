@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("21ElementyStatyczne0305B")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e706f0c26cebded6a7ca7096d5f8e2c60d8e8a0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+314cca92de78a82a69d74d27c6db5c6470e5f7bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("21ElementyStatyczne0305B")]
 [assembly: System.Reflection.AssemblyTitleAttribute("21ElementyStatyczne0305B")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
