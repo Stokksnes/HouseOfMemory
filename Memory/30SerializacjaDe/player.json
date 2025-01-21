@@ -1,0 +1,24 @@
+{
+  "Name": "Mario",
+  "Level": 1,
+  "IsAlive": false,
+  "HealthPoints": 100,
+  "Statistics": [
+    {
+      "Name": "Strength",
+      "Points": 10
+    },
+    {
+      "Name": "Intelligence",
+      "Points": 10
+    }
+  ]
+}
+  //"exclude": [
+  //  "**/bin",
+  //  "**/bower_components",
+  //  "**/jspm_packages",
+  //  "**/node_modules",
+  //  "**/obj",
+  //  "**/platforms"
+  //]

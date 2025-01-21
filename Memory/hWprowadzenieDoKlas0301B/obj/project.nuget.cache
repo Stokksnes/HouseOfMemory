@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6ALir7cz34=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amdph\\Desktop\\Pulpit\\GitHubRepo\\HouseOfMemory\\Memory\\hWprowadzenieDoKlas0301B\\17WprowadzenieDoKlas0301B.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amdph\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\amdph\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\amdph\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\amdph\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

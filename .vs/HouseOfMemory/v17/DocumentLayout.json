@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amdph\\Desktop\\Pulpit\\GitHubRepo\\HouseOfMemory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2153705-DB15-4259-A22C-E8F3D0F878B4}|Memory\\21ElementyStatyczne0305B\\21ElementyStatyczne0305B.csproj|c:\\users\\amdph\\desktop\\pulpit\\githubrepo\\houseofmemory\\memory\\21elementystatyczne0305b\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2153705-DB15-4259-A22C-E8F3D0F878B4}|Memory\\21ElementyStatyczne0305B\\21ElementyStatyczne0305B.csproj|solutionrelative:memory\\21elementystatyczne0305b\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66F7C3-2E2C-4CB6-B5D3-F25571C0F973}|0007KonstruktorDestruktorObiekty\\0007KonstruktorDestruktorObiekty.csproj|c:\\users\\amdph\\desktop\\pulpit\\githubrepo\\houseofmemory\\0007konstruktordestruktorobiekty\\czlowiek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD66F7C3-2E2C-4CB6-B5D3-F25571C0F973}|0007KonstruktorDestruktorObiekty\\0007KonstruktorDestruktorObiekty.csproj|solutionrelative:0007konstruktordestruktorobiekty\\czlowiek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66F7C3-2E2C-4CB6-B5D3-F25571C0F973}|0007KonstruktorDestruktorObiekty\\0007KonstruktorDestruktorObiekty.csproj|c:\\users\\amdph\\desktop\\pulpit\\githubrepo\\houseofmemory\\0007konstruktordestruktorobiekty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD66F7C3-2E2C-4CB6-B5D3-F25571C0F973}|0007KonstruktorDestruktorObiekty\\0007KonstruktorDestruktorObiekty.csproj|solutionrelative:0007konstruktordestruktorobiekty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\amdph\\Desktop\\Pulpit\\GitHubRepo\\HouseOfMemory\\Memory\\21ElementyStatyczne0305B\\Person.cs",
+              "RelativeDocumentMoniker": "Memory\\21ElementyStatyczne0305B\\Person.cs",
+              "ToolTip": "C:\\Users\\amdph\\Desktop\\Pulpit\\GitHubRepo\\HouseOfMemory\\Memory\\21ElementyStatyczne0305B\\Person.cs",
+              "RelativeToolTip": "Memory\\21ElementyStatyczne0305B\\Person.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:56:01.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Czlowiek.cs",
+              "DocumentMoniker": "C:\\Users\\amdph\\Desktop\\Pulpit\\GitHubRepo\\HouseOfMemory\\0007KonstruktorDestruktorObiekty\\Czlowiek.cs",
+              "RelativeDocumentMoniker": "0007KonstruktorDestruktorObiekty\\Czlowiek.cs",
+              "ToolTip": "C:\\Users\\amdph\\Desktop\\Pulpit\\GitHubRepo\\HouseOfMemory\\0007KonstruktorDestruktorObiekty\\Czlowiek.cs",
+              "RelativeToolTip": "0007KonstruktorDestruktorObiekty\\Czlowiek.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:13:54.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amdph\\Desktop\\Pulpit\\GitHubRepo\\HouseOfMemory\\0007KonstruktorDestruktorObiekty\\Program.cs",
+              "RelativeDocumentMoniker": "0007KonstruktorDestruktorObiekty\\Program.cs",
+              "ToolTip": "C:\\Users\\amdph\\Desktop\\Pulpit\\GitHubRepo\\HouseOfMemory\\0007KonstruktorDestruktorObiekty\\Program.cs",
+              "RelativeToolTip": "0007KonstruktorDestruktorObiekty\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:13:52.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
